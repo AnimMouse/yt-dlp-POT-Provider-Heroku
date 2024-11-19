@@ -1,9 +1,6 @@
 # yt-dlp POT Provider on Heroku
 Host your own [BgUtils POT Provider server](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) for [yt-dlp](https://github.com/yt-dlp/yt-dlp) on Heroku.
 
-> [!TIP]
-> You can try to use my currently hosted server at `https://yt-dlp-pot.44444444.xyz`.
-
 ## Heroku Deployment
 You need Heroku CLI.
 
